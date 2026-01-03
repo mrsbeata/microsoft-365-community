@@ -1,0 +1,297 @@
+# Cursor Rules for Microsoft 365 Community Knowledge Base
+
+## Project Context
+This is a community knowledge base for the Maturity Model for Microsoft 365 (MM4M365), not a code project. Articles are written in Markdown and focus on business competencies, practical guidance, and organizational maturity assessment.
+
+## Git Workflow & Branch Naming
+
+### Branch Naming Convention
+- Use descriptive, kebab-case names that describe the change
+- DO NOT include personal identifiers (like "pia") in branch names
+- Examples:
+  - ✅ `update-people-and-communities-competency`
+  - ✅ `add-copilot-practical-scenario`
+  - ✅ `fix-staff-training-typo`
+  - ❌ `pia-update-article`
+  - ❌ `my-changes`
+
+### Git Workflow
+1. Always sync with upstream before starting work:
+   ```bash
+   git checkout main
+   git fetch upstream
+   git merge upstream/main
+   git push origin main
+   ```
+
+2. Create feature branch from main:
+   ```bash
+   git checkout -b descriptive-branch-name
+   ```
+
+3. Commit only article files, never:
+   - PR_*.md files
+   - *_GUIDE.md files
+   - Feedback/analysis files
+   - Temporary documentation
+
+4. One article per branch for separate PRs
+5. Related files (article + images) can be in same branch
+
+## Writing Style & Tone
+
+### Core Principles
+- **Mentor-like tone**: Supportive, practical, like the world's best mentor helping you forward
+- **Dry but kind humor**: Witty observations, but always supportive
+- **Simple language**: Accessible to all business roles, not just IT
+- **Direct address**: Use "you" to speak directly to the reader
+- **Practical focus**: Real-world scenarios, not theoretical concepts
+
+### Tone Examples
+✅ Good:
+- "You might recognize this one."
+- "Let's be honest: this requires investment."
+- "Don't worry—this is normal at this level, and it gets better."
+- "Here's the bottom line:..."
+- "You've got this."
+
+❌ Avoid:
+- Academic or overly formal language
+- Jargon without explanation
+- Passive voice when active is clearer
+- Condescending or dismissive language
+
+### Language Guidelines
+- Use simple, clear sentences
+- Explain technical terms when first introduced
+- Use examples from real organizations
+- Focus on business value, not just features
+- Write for knowledge workers, not just IT professionals
+
+## Article Structure
+
+### Standard Sections
+1. **Overview [tl;dr]**: Quick summary for busy readers
+2. **Definition**: What this competency covers
+3. **Evolution**: Levels 100-500 with:
+   - Culture
+   - User Experience (when applicable)
+   - Process (with subcategories if needed)
+   - Impacts
+4. **Scenarios**: Real-world examples
+5. **Cost & Benefit**: Practical ROI considerations
+6. **Conclusion**: Encouraging summary
+7. **Resources**: Related documents and toolsets
+
+### Process Section Subcategories
+When Process sections are long, organize into:
+- Profile Management
+- Communities & Groups
+- Training Delivery
+- Competency Groups
+- HR Support & Governance
+- Expertise Discovery
+- Communication Channels
+- Mentorship & Development
+
+### Sparkles (✨) Usage
+- Use sparingly to highlight ONLY the most critical starting points
+- Focus on actionable items readers should prioritize
+- Not for every important point, only the most essential ones
+
+## Cross-Referencing & Linking
+
+### When to Link to Other Competencies
+Link to other competencies when:
+- The topic directly relates to or depends on another competency
+- You're explaining how competencies work together
+- You're referencing a concept defined in another competency
+- The reader needs to understand the connection for context
+
+### Linking Patterns
+
+**To Competencies:**
+```markdown
+[People and Communities](microsoft365-maturity-model--people-and-communities-competency.md)
+[Staff & Training](microsoft365-maturity-model--staff-and-training.md)
+[Management of Content](microsoft365-maturity-model--management-of-content.md)
+[AI & Cognitive Business](microsoft365-maturity-model--cognitive-business.md)
+```
+
+**To Practical Scenarios:**
+```markdown
+[Implementing Microsoft 365 Copilot Organization-Wide](maturity-model-microsoft365-practical-scenarios-copilot-implementation.md)
+```
+
+**To How-To Articles:**
+```markdown
+[How to Elevate Communication](microsoft365-maturity-model--how-to-elevate-communication.md)
+```
+
+**To Introduction:**
+```markdown
+[Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
+```
+
+### Cross-Reference Guidelines
+- **In Overview/Definition**: Link to related competencies that are essential to understanding
+- **In Process sections**: Link when a process depends on another competency
+- **In Scenarios**: Link to practical scenarios that demonstrate the concept
+- **In Resources**: Always include related competencies and practical scenarios
+- **Avoid over-linking**: Only link when it adds value, not for every mention
+
+### Related Documents Section
+Always include a "Related documents" section at the end with:
+- Related competencies (especially those mentioned in the article)
+- Relevant practical scenarios
+- How-to articles that complement the content
+- External resources when appropriate
+
+Example:
+```markdown
+## Related documents
+
+- [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
+- [Maturity Model for Microsoft 365 – People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
+- [Maturity Model for Microsoft 365 – Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
+- [Practical Scenarios – Implementing Microsoft 365 Copilot Organization-Wide](maturity-model-microsoft365-practical-scenarios-copilot-implementation.md)
+```
+
+## Media Files
+
+### Supported File Types
+- **Images**: PNG, JPG (preferred formats)
+- **PowerPoint**: PPTX files can be stored in `Community/media/article-folder-name/`
+- **Other**: Excel (XLSX), PDF when appropriate
+
+### PowerPoint Files
+- ✅ Yes, PowerPoint files can be stored in GitHub
+- Store in the article's media folder: `Community/media/article-folder-name/presentation.pptx`
+- Reference in article if needed, but images are preferred for web viewing
+- Use PowerPoint for downloadable resources, presentations, or detailed diagrams
+
+### Image Guidelines
+- Place in `Community/media/article-folder-name/`
+- Use descriptive filenames: `level-200-characteristics.PNG`
+- Reference in markdown: `![Alt text](media/article-folder-name/image.PNG)`
+- Alt text should be descriptive and meaningful
+
+## Content Guidelines
+
+### Maturity Level Descriptions
+- **Level 100**: Initial state, often chaotic, "Wild West"
+- **Level 200**: Managed but can be a "trap" - feels like success but builds debt
+- **Level 300**: Defined - "where things start to click"
+- **Level 400**: Predictable - strategic, systematic
+- **Level 500**: Optimizing - "where you want to be"
+
+### Key Messages
+- Continuous learning is essential, not one-time training
+- HR owns training structure and competency groups
+- Communications owns channel strategy and Viva Engage
+- Profile management is HR's responsibility
+- Communities enable knowledge sharing and transparency
+- Measure business impact, not vanity metrics
+
+### Cross-Competency Awareness
+- **People and Communities**: Focus on profiles, communities, expertise discovery
+- **Staff & Training**: Focus on training delivery, competency groups structure
+- **Management of Content**: Focus on content lifecycle, ROT cleanup
+- **AI & Cognitive Business**: Focus on AI governance and capabilities
+- **Avoid redundancy**: Each competency has distinct focus - link instead of repeating
+
+## Filter Questions (Ask Before Writing)
+
+1. **Purpose**: What business problem does this solve?
+2. **Audience**: Which business roles need this information?
+3. **Maturity**: What level is this relevant for?
+4. **Connection**: How does this relate to other competencies?
+5. **Evidence**: What real-world examples support this?
+6. **Action**: What can the reader do with this information?
+7. **Links**: Which other competencies/scenarios should be referenced?
+
+## Technical Guidelines
+
+### Markdown Formatting
+- Use proper heading hierarchy (##, ###, ####)
+- Use bullet points for lists
+- Use code blocks for technical examples
+- Use blockquotes for important notes
+- Images: `![Alt text](media/folder/image.PNG)`
+- Links: `[Link text](relative-path-to-file.md)`
+
+### File Naming
+- Articles: `microsoft365-maturity-model--competency-name.md`
+- Practical Scenarios: `maturity-model-microsoft365-practical-scenarios-topic.md`
+- Images: Place in `Community/media/article-folder-name/`
+- PowerPoint: Can be in `Community/media/article-folder-name/` if needed
+
+### Frontmatter
+```yaml
+---
+title: Maturity Model for Microsoft 365 – Competency Name
+ms.date: MM/DD/YYYY
+author: github-username
+ms.reviewer: pamgreen
+manager: pamgreen
+ms.topic: article
+ms.author: pamgreen
+ms.service: microsoft-365
+ms.localizationpriority: Low
+description: Brief description
+ms.collection: M365Community
+---
+```
+
+## Quality Checklist
+
+Before submitting:
+- [ ] Language is simple and accessible
+- [ ] Tone is mentor-like and supportive
+- [ ] Sparkles highlight only critical points
+- [ ] No redundancy with other competencies (link instead)
+- [ ] Cross-references to related competencies included
+- [ ] Related documents section is complete
+- [ ] Real-world examples included
+- [ ] Business value is clear
+- [ ] Structure follows standard format
+- [ ] Images are properly referenced
+- [ ] No guide/temp files in commit
+- [ ] Branch name is descriptive (no personal identifiers)
+
+## Common Patterns
+
+### Level Introductions
+- Level 100: "You might recognize this one..."
+- Level 200: "It's progress, but it's still a bit like herding cats."
+- Level 300: "This is where things start to click."
+- Level 400: [Strategic description]
+- Level 500: "This is where you want to be."
+
+### Impact Sections
+Start with: "At this level you can expect the following:"
+Then bullet points with specific outcomes.
+
+### Scenario Sections
+Start with: "Here's what this looks like in practice:"
+Then concrete examples.
+
+### Cost & Benefit
+Start with: "Let's be honest: [acknowledge investment]"
+Then practical ROI considerations.
+
+### Cross-Reference Examples
+- "This competency works closely with [People and Communities](microsoft365-maturity-model--people-and-communities-competency.md) for..."
+- "For practical implementation guidance, see [Implementing Microsoft 365 Copilot](maturity-model-microsoft365-practical-scenarios-copilot-implementation.md)"
+- "As discussed in [Staff & Training](microsoft365-maturity-model--staff-and-training.md), competency groups..."
+
+## Remember
+- This is a knowledge base, not code
+- Write for business people, not just IT
+- Be supportive and practical
+- Use real examples
+- Focus on business value
+- Keep it simple and clear
+- Link to related content instead of repeating it
+- PowerPoint files can be stored in media folders when needed
+
