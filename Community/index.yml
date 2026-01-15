@@ -1,0 +1,237 @@
+### YamlMime:Landing
+
+title: Microsoft 365 Community Content # < 60 chars
+summary: Learn about Microsoft 365 from the community!  All content is community generated. # < 160 chars
+
+metadata:
+  title: Microsoft 365 Community Content # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: Community contributed documentation # Required; article description that is displayed in search results. < 160 chars.
+  ms.service: microsoft-365 #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.topic: landing-page # Required
+  ms.collection: M365-collaboration
+  author: jhendr #Required; your GitHub user alias, with correct capitalization.
+  ms.author: pamgreen #Required; microsoft alias of author; optional team alias.
+  ms.date: 10/28/2020 #Required; mm/dd/yyyy format
+  ms.localizationpriority: Low
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+
+  # Card (optional)
+  - title: Basics and Definitions
+    linkLists:
+      - linkListType: get-started
+        links:
+          - text: Glossary
+            url: glossary.md
+          - text: Follow Microsoft 365 on Social Media
+            url: microsoft-365-on-social-media.md
+          - text: Microsoft 365 Search Technologies
+            url: microsoft-365-search-technologies.md
+          - text: What is a Site Column?
+            url:  what-is-site-column.md
+          - text: What is a Content Type?
+            url:  what-is-content-type.md
+          - text: Groups in Microsoft 365 and Azure, and Which is Right for You
+            url: all-about-groups.md
+          - text: What kind of apps can you build on Microsoft 365?
+            url: type-of-apps-microsoft-365.md
+          - text: Query String URL Tricks for SharePoint and Microsoft 365
+            url: query-string-url-tricks-sharepoint-m365.md
+          - text: Use the Government Cloud for SharePoint and Microsoft 365
+            url: government-cloud.md
+
+  # Card (optional)
+  - title: Microsoft 365 Better Practices
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Accessibility by Design
+            url: accessibility-by-design.md
+          - text: Content Type Propagation
+            url: content-type-propagation.md
+          - text: OneDrive PC Folder Backup Benefits for End Users
+            url:  known-folder-move-benefits-for-enduser.md
+          - text: Why Microsoft 365 adoption projects fail
+            url: why-m365-adoption-projects-fail.md
+          - text: Microsoft Teams Naming Best Practices
+            url: microsoft-teams-naming-importance.md
+
+  # Card (optional)
+  - title: Maturity Model for Microsoft 365
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Learn about the Maturity Model
+            url:  index-mm4m365.yml
+
+  # Card (optional)
+  - title: SharePoint Better Practices
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Site Builder/Owner - New Site Checklist
+            url: new-site-checklist.md
+          - text: Versioning in SharePoint
+            url: versioning-basics-best-practices.md
+          - text: Planning Permissions with Group-based SharePoint Sites when you're used to Regular SharePoint Permissions
+            url:  permission-model-differences.md
+          - text: Importing Data
+            url:  importing-data.md
+          - text: SharePoint Naming Guidelines
+            url:  sharepoint-naming-guidelines.md
+          - text: Why SharePoint Training is Important
+            url: why-sharepoint-training-is-important.md
+          - text: Building great content for your Intranet
+            url: intranet-content-sources.md
+          - text: Identifying Your SharePoint Champions
+            url: identifying-your-sharepoint-champions.md
+          - text: Empowering Your SharePoint Champions
+            url: empowering-your-SharePoint-champions.md
+          - text: File Naming on an Intranet
+            url: file-naming-intranet.md
+
+  # Card (optional)
+  - title: Information Architecture
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Information Architecture - Site Topology
+            url: information-architecture-site-topology.md
+          - text: Information Architecture - Managed Metadata vs Lookup columns
+            url: information-architecture-managed-metadata-vs-lookup-column.md
+          - text: Living Large with Large Lists and Large Libraries
+            url: large-lists-large-libraries-in-SharePoint.md
+          - text: Creating Useful Views for Lists & Libraries
+            url: creating-useful-views-in-lists-libraries.md
+          - text: How Do Site Columns Become Managed Properties - Thus Available for Search?
+            url: how-do-site-columns-become-managed-properties-thus-available-for-search.md
+          - text: Document Sets for Fast Legacy Process Automation
+            url: document-sets-are-magic.md
+          - text: Taking Advantage of the Content Type Inheritance Model in SharePoint
+            url: taking-advantage-content-type-inheritance-sharepoint.md
+          - text: List Formatting 101
+            url: list-formatting-101.md
+          - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
+            url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
+
+
+  # Card (optional)
+  - title: Effective Communication
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: The Principles of Communication
+            url: principles-of-communication.md
+          - text: The Principles of Search
+            url: principles-of-search.md
+          - text: The Evolution of Company-wide Email Communication to SharePoint News
+            url: evolution-of-company-wide-email-communication-to-sharepoint-news.md
+          - text: How to Share Org-Wide Communication in Microsoft 365
+            url: how-to-share-org-wide-communications-in-microsoft-365.md
+
+  # Card (optional)
+  - title: Making Better Decisions
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Team site vs Communication site - Which one should I choose?
+            url: team-site-or-communication-site.md         
+          - text: List columns or Site columns - which one to choose?
+            url: list-column-or-site-column-which-one-to-choose.md
+          - text: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
+            url: select-an-effective-navigation-strategy.md
+          - text: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
+            url: auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md
+          - text: Can Machine Learning be used to assign managed metadata attributes for items?
+            url: machine-learning-and-managed-metadata.md
+          - text: Designing your solution for scale
+            url: designing-solution-for-scale.md
+          - text: Should I store my files in Microsoft Teams or in SharePoint?
+            url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
+          - text: Defining a Power Platform Environment Strategy
+            url: defining-a-power-platform-environment-strategy.md
+          - text: What Task Management Tool is Right For Me
+            url: which-task-management-option.md
+          - text: Link vs News Link vs Link to a Document
+            url: making-good-technology-decisions--compare-link-news-link-and-link-to-a-document.md
+
+  # Card (optional)
+  - title: Useful Scenarios
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Library scenarios
+            url: library-scenarios.md
+          - text: Using site designs to manage project life cycles
+            url: site-design-life-cycle.md
+          - text: Working with Cascading Lists in SharePoint and Power Apps
+            url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
+          - text: Document Lifecycle Scenarios
+            url: document-lifecycle-scenarios.md
+          - text: Power Automate - Send SharePoint files as attachments
+            url: power-automate-send-sharepoint-files-as-attachments.md
+          - text: How can I use Learning Pathways in my organization?
+            url: how-can-i-use-learning-pathways-in-my-organization.md
+          - text: Advanced Highlighted Content Web Part
+            url: highlighted-content-web-part.md
+          - text: Using Shared Channels for External Collaboration
+            url: using-shared-channels-for-external-collaboration.md
+          - text: Using Shared Channels for Internal Collaboration
+            url: using-shared-channels-for-internal-collaboration.md
+
+
+  # Card (optional)
+  - title: Automation
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Working with modern client-side pages using PnP PowerShell
+            url:  working-with-modern-clientside-pages-using-pnp-powershell.md
+          - text: Should everyone create Teams? A Low Code Provisioning solution
+            url: should-everyone-create-teams.md
+          - text: Benefits of using PowerShell with SharePoint
+            url:  benefits-of-using-powershell-with-sharepoint.md
+
+  # Card (optional)
+  - title: Security
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: "Managing SharePoint Online Security: A Team Effort"
+            url: sharepoint-security-a-team-effort.md
+          - text: "Basic Security Set Up for Microsoft 365"
+            url: basic-security-set-up-for-microsoft-365.md
+          - text: "Managing External Guests in SharePoint vs Teams"
+            url: managing-external-guest-in-SharePoint-vs-Teams.md
+          - text: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
+            url: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
+
+  # Card (optional)
+  - title: Administration
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Teams Shared Channels for Admins
+            url: teams-shared-channel-for-admins.md
+          - text: Understanding where your tenant's display name is used
+            url: understanding-where-tenant-display-name-is-used.md
+
+  # Card (optional)
+  - title: References
+    linkLists:
+      - linkListType: reference
+        links:
+          - text: Microsoft Office official documentation
+            url: /office/
+          - text: FastTrack onboarding and adoption services
+            url: https://fasttrack.microsoft.com/office
+          - text: Find a SharePoint certified partner
+            url: https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support
+          - text: Visit the SharePoint community
+            url: https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint
+          - text: Learn how to be a Community Contributor
+            url:  https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md

@@ -1,0 +1,62 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": ["breadcrumb/toc.yml"]
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices.md"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.gif",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-M365-IT",
+      "breadcrumb_path": "/microsoft-365/community/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "feedback_system": "OpenSource",
+      "feedback_product_url": "https://feedbackportal.microsoft.com/feedback/",
+      "open_source_feedback_contributorGuideUrl": "https://learn.microsoft.com/contribute",
+      "open_source_feedback_issueTitle": "Microsoft 365 community feedback - ",
+      "open_source_feedback_issueUrl": "https://github.com/MicrosoftDocs/microsoft-365-community/issues/new?template=customer-feedback.yml",
+      "open_source_feedback_productName": "Microsoft 365 community content",
+      "searchScope": ["Microsoft 365 community"]
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "microsoft-365-community",
+    "markdownEngineName": "markdig"
+  }
+}
