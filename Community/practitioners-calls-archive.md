@@ -1,18 +1,18 @@
 ---
-title: Maturity Model for Microsoft 365 - Practitioners Calls Archive
-ms.date: 11/21/2025
-author: eemancini
+title:  Maturity Model for Microsoft 365 – Practitioners Calls Archive
+ms.date: 1/16/2026
+author: mrsbeata
 ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: overview
-ms.author: pamgreen
+ms.author: mrsbeata
 ms.service: microsoft-365
 ms.localizationpriority: Low
-description: Archive of Maturity Model for Microsoft 365 Practitioners Calls
+description:  Archive of Maturity Model for Microsoft 365 Practitioners Calls
 ms.collection: M365Community
 ---
 
-# Maturity Model for Microsoft 365 - Practitioners Calls Archive
+# Maturity Model for Microsoft 365 – Practitioners Calls Archive
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
@@ -32,8 +32,8 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 
 - [November 2025 - Practical Scenario Copilot Adoption Level 300](#practical-scenario-copilot-adoption-level-300)
 - [October 2025 - Revisiting the Communications Competency](#revisiting-the-communications-competency)
-- [September 2025 - Business Process & Search Competency Update](#business-process-search-competency-update)
-- [June 2025 - Process Improvement Practical Scenario - AMA](#process-improvement-practical-scenario-ama)
+- [September 2025 - Business Process & Search Competency Update](#business-process--search-competency-update)
+- [June 2025 - Process Improvement Practical Scenario - AMA](#process-improvement-practical-scenario---ama)
 - [May 2025 - Security Culture](#security-culture)
 - [April 2025 - Practical Scenario on Branding](#practical-scenario-on-branding)
 - [March 2025 - Maturity Model and AI Agents](#maturity-model-and-ai-agents)
@@ -82,7 +82,7 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 
 ### Practical Scenario Copilot Adoption Level 300
 
-November 2025 | Slides: [PPT](media/community-calls/2025/Practitioners%202025-11-18%20-%20Practical%20Scenario%20Copilot%20Adoption%20Level%20300.pptx) [PDF](media/practiners-call-archive/2025/Practitioners%202025-11-18%20-%20Practical%20Scenario%20Copilot%20Adoption%20Level%20300.pdf) | Recording: <a href="https://www.youtube.com/watch?v=V1BHHTVBjtQ" target="_blank">YouTube</a>
+November 2025 | Slides: [PDF](media/practiners-call-archive/2025/Practitioners%202025-11-18%20-%20Practical%20Scenario%20Copilot%20Adoption%20Level%20300.pdf) | Recording: <a href="https://www.youtube.com/watch?v=V1BHHTVBjtQ" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/pialangenkrans/" target="_blank">Pia Langenkrans, MVP</a>
 
@@ -94,13 +94,13 @@ Reaching level 300 requires parallel work across three core competencies: Busine
 
 She also argued forcefully that managers, not IT, will become "bosses" of agents in the future because they understand business processes, and that champions programs need to be structured with at least 4 hours monthly commitment to prevent burnout. The budget discussion revealed tension between IT budgets and business needs.
 
-`Practical Scenario`, `Staff & Training`, `People & Communities`, `AI & Cognitive Business` | [↑ Back to top](#table-of-contents)
+`Practical Scenario`, `Staff & Training`, `People & Communities`, `AI & Cognitive Business` | [→ Back to top](#table-of-contents)
 
 ---
 
 ### Revisiting the Communications Competency
 
-October 2025 | Slides: [PPT](media/community-calls/2025/Practitioners%202025-10-21%20-%20Revisiting%20the%20Communications%20Competency.pptx) [PDF](media/practiners-call-archive/2025/Practitioners%202025-10-21%20-%20Revisiting%20the%20Communications%20Competency.pdf) | Recording: <a href="https://www.youtube.com/watch?v=2c3tSHdf0cg" target="_blank">YouTube</a>
+October 2025 | Slides: [PDF](media/practiners-call-archive/2025/Practitioners%202025-10-21%20-%20Revisiting%20the%20Communications%20Competency.pdf) | Recording: <a href="https://www.youtube.com/watch?v=2c3tSHdf0cg" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/anokheetara/" target="_blank">Tara Saylor</a>
 
@@ -112,13 +112,13 @@ The presentation reinforced that "technology needs the business to make communic
 
 She highlighted AI's strengths in accessibility (automatic transcripts, real-time translations, alt-text generation) and specific communication tasks like SharePoint's FAQ generation tool and summarization features, which work well because they operate within defined scopes. The shift from one-way CEO blogs to two-way employee-generated content (via Viva Engage/Yammer) represents a fundamental change in organizational communications, and AI's ability to provide mass customization lets end users reformat content to their preferences without burdening communicators.
 
-`Communications` | [↑ Back to top](#table-of-contents)
+`Communications` | [→ Back to top](#table-of-contents)
 
 ---
 
 ### Business Process & Search Competency Update
 
-September 2025 | Slides: [PPT](media/community-calls/2025/Practitioners%202025-09-16%20-%20Business%20Process%20%26%20Search%20Competency%20Update.pptx) [PDF](media/practiners-call-archive/2025/Practitioners%202025-09-16%20-%20Business%20Process%20%26%20Search%20Competency%20Update.pdf) | Recording: <a href="https://www.youtube.com/watch?v=-mReMv9HgTg" target="_blank">YouTube</a>
+September 2025 | Slides: [PDF](media/practiners-call-archive/2025/Practitioners%202025-09-16%20-%20Business%20Process%20%26%20Search%20Competency%20Update.pdf) | Recording: <a href="https://www.youtube.com/watch?v=-mReMv9HgTg" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/simonjhudson/" target="_blank">Simon Hudson, MVP</a>
 
@@ -130,7 +130,7 @@ The updates reflect a fundamental rethinking of how AI interacts with traditiona
 
 A compelling discussion emerged around content lifecycle management when Avashek shared how their 84-year-old manufacturing company discovered Copilot surfacing decades-old help desk numbers alongside current ones. Diego's discovery that Azure-generated image tags labeled healthcare workers as "sexy, attractive, gorgeous" highlighted AI's dangerous context failures and the continued importance of human-curated metadata. The consensus was that while AI enables powerful new capabilities, organizations need strong information architecture, metadata governance, and lifecycle management as prerequisites - echoing the earlier session's "IIA before AI" principle. Search-driven experiences still have distinct value versus AI-driven ones, and knowing when to use which approach is a critical skill.
 
-`Business Process`, `Search` | [↑ Back to top](#table-of-contents)
+`Business Process`, `Search` | [→ Back to top](#table-of-contents)
 
 ---
 
@@ -142,19 +142,19 @@ June 2025 | Slides: [PDF](media/practiners-call-archive/2025/Practitioners%20202
 
 **Summary:** Carol Zollinger presented a detailed practical scenario showing how she transformed a chaotic timesheet correction process at a mental health residential facility from level 100 to approximately level 300. The original problem involved direct care workers on 24/7 shifts who couldn't fix their own timesheet errors, supervisors drowning in email requests (hundreds daily), and missed approval deadlines causing payroll chaos.
 
-Carol built a ticketing system using Microsoft Lists, Power Automate (5 flows), and Forms with status-based automation (Open â†’ Resolved/Escalated â†’ Escalated to Payroll). The solution featured JSON-formatted clickable resolve/escalate buttons, automated daily reminders when tickets were open, and email notifications when tickets were resolved. She targeted four competencies: Business Process (clear workflow and visibility), Collaboration (any supervisor could fix any ticket), Employee Experience (simple mobile-friendly form), and Management of Content (standardized format and audit trail).
+Carol built a ticketing system using Microsoft Lists, Power Automate (5 flows), and Forms with status-based automation (Open → Resolved/Escalated → Escalated to Payroll). The solution featured JSON-formatted clickable resolve/escalate buttons, automated daily reminders when tickets were open, and email notifications when tickets were resolved. She targeted four competencies: Business Process (clear workflow and visibility), Collaboration (any supervisor could fix any ticket), Employee Experience (simple mobile-friendly form), and Management of Content (standardized format and audit trail).
 
 Carol's design philosophy centered on making compliance easy: "Here's what I want people to do. How can I make it easy for them to obey me?" She emphasized Mark's quote "tech cannot fix humans" - noting that supervisors initially found it easier not to enforce the process, but paid for it later. Her rollout strategy proved crucial: she trained supervisors first (who were "super excited"), and they rolled it out in their regular meetings, essentially doing the selling for her.
 
 Success came quietly - when she heard nothing, she feared no one was using it, but checking the list showed people were simply using it without issues. She included inline documentation carefully calibrated for users who'd done the task once before (not introductory, not exhaustive). The session also featured Ralph demonstrating an M365 Copilot agent built for the maturity model itself, sparking discussion about using agents to help navigate the massive model content. A significant technical discussion emerged about upcoming MFA enforcement on service accounts in October 2024, with suggestions to use service principals with certificates instead of password-based service accounts for running Power Automate flows.
 
-`Practical Scenario`, `Business Process`, `Collaboration`, `Employee Experience`, `Management of Content` | [↑ Back to top](#table-of-contents)
+`Practical Scenario`, `Business Process`, `Collaboration`, `Employee Experience`, `Management of Content` | [→ Back to top](#table-of-contents)
 
 ---
 
 ### Security Culture
 
-May 2025 | Slides: [PPT](media/community-calls/2025/Practitioners%202025-05-20%20-%20Security%20Culture.pptx) [PDF](media/practiners-call-archive/2025/Practitioners%202025-05-20%20-%20Security%20Culture.pdf) | Recording: <a href="https://www.youtube.com/watch?v=Q0CaGHVmwR4" target="_blank">YouTube</a>
+May 2025 | Slides: [PDF](media/practiners-call-archive/2025/Practitioners%202025-05-20%20-%20Security%20Culture.pdf) | Recording: <a href="https://www.youtube.com/watch?v=Q0CaGHVmwR4" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/matswarnolf/" target="_blank">Mats Warnolf, MVP</a>
 
@@ -168,13 +168,13 @@ Leadership must be visibly involved - "culture is shaped by what leaders talk ab
 
 The rich discussion included Carol's story of an employee fooled by a compromised lawyer's email who immediately reported it, preventing data loss - this became a teaching moment about catching mistakes early. Simon warned about AI-driven voice phishing attacks ("very polite young Londoner"). Best practices emerged: public recognition in Viva Engage, leaderboards for catching phishing, automatic training enrollment for failures, and always providing auto-responders rather than letting people "report into the void."
 
-`Security`, `People & Communities` | [↑ Back to top](#table-of-contents)
+`Security`, `People & Communities` | [→ Back to top](#table-of-contents)
 
 ---
 
 ### Practical Scenario on Branding
 
-April 2025 | Slides: [PPT](media/community-calls/2025/Practitioners%202025-04-15%20-%20Practical%20Scenario%20on%20Branding.pptx) [PDF](media/practiners-call-archive/2025/Practitioners%202025-04-15%20-%20Practical%20Scenario%20on%20Branding.pdf) | Recording: <a href="https://www.youtube.com/watch?v=b36ZFdLdnw8" target="_blank">YouTube</a>
+April 2025 | Slides: [PDF](media/practiners-call-archive/2025/Practitioners%202025-04-15%20-%20Practical%20Scenario%20on%20Branding.pdf) | Recording: <a href="https://www.youtube.com/watch?v=b36ZFdLdnw8" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/simonjhudson/" target="_blank">Simon Hudson, MVP</a>
 
@@ -186,13 +186,13 @@ Unlike most competencies, Simon noted "there are actually in the branding world 
 
 Sean Brown shared his organizational asset library challenge: categorizing templates for different regions (US, EU, Japan) without creating a mess, with suggestions to use permissions or content types. Simon's expertise showed when discussing his previous role as international brand manager for clinical products, where he managed six global brands and created "carefully crafted authentic stories" about wound healing - acknowledging it as "positive reinforcement manipulation to make sure people understand how great the things you do really are." The memorable quote: "Registering is trivial. That's just another form. Building your brand, finding the right combination of names and logos and domains... that's very very hard." Pia lamented her own struggle naming "Cruise Control 365" (trademark conflicts).
 
-`Practical Scenario`, `Management of Content` | [↑ Back to top](#table-of-contents)
+`Practical Scenario`, `Management of Content` | [→ Back to top](#table-of-contents)
 
 ---
 
 ### Maturity Model and AI Agents
 
-March 2025 | Slides: [PPT](media/community-calls/2025/Practitioners%202025-03-18%20-%20Maturity%20Model%20and%20AI%20Agents.pptx) [PDF](media/practiners-call-archive/2025/Practitioners%202025-03-18%20-%20Maturity%20Model%20and%20AI%20Agents.pdf) | Recording: <a href="https://www.youtube.com/watch?v=wI_452J6Trc" target="_blank">YouTube</a>
+March 2025 | Slides: [PDF](media/practiners-call-archive/2025/Practitioners%202025-03-18%20-%20Maturity%20Model%20and%20AI%20Agents.pdf) | Recording: <a href="https://www.youtube.com/watch?v=wI_452J6Trc" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/simondoy/" target="_blank">Simon Doy, MVP</a>
 
@@ -200,7 +200,7 @@ March 2025 | Slides: [PPT](media/community-calls/2025/Practitioners%202025-03-18
 
 The presentation identified five critical competencies for AI agent maturity: **Cognitive Business** (the transition from humans doing everything to humans+AI as a team), **Governance, Risk & Compliance** (AI strategy, responsible AI policies, managing "agent sprawl" that will resemble SharePoint sprawl), **Staff and Training** (users AND developers need training, managing fear that AI takes jobs), **Management of Content** (agents depend on high-quality content, archive old content outside scope), and **Customization and Development** (DevOps thinking with test/staging/prod environments). Terrence expressed concern about consumption-based cost models but suggested it might need to be expensive to discourage waste of computing power - he gave the example of someone building monstrous AI prompts for route planning instead of coding an elegant app. Pia emphasized that organizations must treat AI agents as real DevOps: "we can't just run and see when it breaks like we do with M365 admin - we need to think like real developers." David highlighted the problem of personal agents in document libraries becoming "orphaned" upon terminations. The discussion about responsible AI became intense when Simon mentioned an example from the Copilot Connection podcast about someone building an agent to profile people as potential psychopaths - Teams AI gave him a warning for using the word "psychopath." Terrence concluded by emphasizing the leadership vacuum: many organizations lack vision for AI and leave IT to "muddle through" while employees fear being replaced - leaders need to take a stand and communicate "we will not replace people with AI" (at least for now).
 
-`Practical Scenario`, `AI & Cognitive Business`, `Governance, Risk & Compliance`, `Customization & Development` | [↑ Back to top](#table-of-contents)
+`Practical Scenario`, `AI & Cognitive Business`, `Governance, Risk & Compliance`, `Customization & Development` | [→ Back to top](#table-of-contents)
 
 ---
 
@@ -216,7 +216,7 @@ The workshop showed how to gradually get participants to realize where they actu
 
 The workshop's success depends on getting the right people in the room and managing different personalities - "there are people who are afraid, there are people who are pushy and not listening to other people in the room." Pia emphasized that the goal is not to measure but to create understanding: "when organizations start learning about these things they just get more stressed because they understand how much there is out there that they don't understand... so it's important to give them a roadmap." Mark made an important point about avoiding "boiling the ocean" - not everyone needs to be 500 everywhere: "few organizations have that NASA kind of critical mission maturity required all the time - if they get to level 300 on management of content they're more than happy, but security might need to be higher." Sharon mentioned that she interviews certain people separately and then presents the results. A critical discussion arose about Copilot maturity when Sean asked about his organization which "are like Windows one, not Windows 7, and they want to use Copilot" - the team emphasized that Copilot requires baseline maturity in several competencies (permissions must be in order otherwise Copilot finds "all kinds of things you didn't want it to find"). Simon Hudson pointed out that the maturity model is "technology agnostic" while Microsoft focuses on specific products - they try to achieve different goals. Pia also emphasized the importance of not expecting people to learn faster than is realistic: "we really hit the roof on that - we can't expect people just to learn this, we need more structure and order."
 
-`Practical Scenario`, `Staff & Training` | [↑ Back to top](#table-of-contents)
+`Practical Scenario`, `Staff & Training` | [→ Back to top](#table-of-contents)
 
 ---
 
@@ -234,439 +234,439 @@ Pia provided a one-page leadership decision slide that she described as "atrocio
 
 Leadership resistance tactics include: deflection ("not my table"), analysis paralysis (endless requests for more information), token agreements (verbal support but no budget/people), silent sabotage (avoiding meetings), delegation without direction (sending junior people with no mandate), dismissive attitudes ("nice to have not must have"), and excessive risk aversion (in Sweden: "the cloud gives everything to the American military"). **Proactive strategies**: Use competitors' failures as cautionary tales ("this is the risk I'm proposing - here's what happened to someone who ignored it"), get management arguing with each other rather than with you (put sales next to legal: "if I do all that we don't sell anything" vs "these are compliance requirements"), gossip everything to everyone in one-on-ones before meetings so "everyone thinks everyone else is hearing it for the first time," and use the "management tripwire" trick - deliberately include one visible but insignificant error so managers feel they've contributed. Daniel raised the frustration of identifying risks at project start only to have them become realities at the end - Pia confirmed using storytelling works better than dry technical terms. The pong game analogy was brilliant: an IT manager showed leadership the old Pong game and said "our system was designed when this was popular."
 
-`Practical Scenario`, `Staff & Training`, `People & Communities` | [↑ Back to top](#table-of-contents)
+`Practical Scenario`, `Staff & Training`, `People & Communities` | [→ Back to top](#table-of-contents)
 
 --
 
 ### Ignite and Maturity
 
-December 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-12-17%20-%20Ignite%20and%20Maturity.pptx) [PDF](media/community-calls/2024/Practitioners%202024-12-17%20-%20Ignite%20and%20Maturity.pdf) | Recording: <a href="https://www.youtube.com/watch?v=PX22WwesCJA" target="_blank">YouTube</a>
+December 2024 | Recording: <a href="https://www.youtube.com/watch?v=PX22WwesCJA" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Adding sparkle to Competency
 
-November 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-11-19%20-%20Adding%20sparkle%20to%20Competency.pptx) [PDF](media/community-calls/2024/Practitioners%202024-11-19%20-%20Adding%20sparkle%20to%20Competency.pdf) | Recording: <a href="https://www.youtube.com/watch?v=h8c4fmdhc-Q" target="_blank">YouTube</a>
+November 2024 | Recording: <a href="https://www.youtube.com/watch?v=h8c4fmdhc-Q" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Future-Ready - What do mature organizations do next
 
-October 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-10-15%20-%20Future-Ready%20-%20What%20do%20mature%20organizations%20do%20next.pptx) <a href="media/community-calls/2024/Practitioners%202024-10-15%20-%20Future-Ready%20-%20What%20do%20mature%20organizations%20do%20next.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=Lq2Et15tc4s" target="_blank">YouTube</a>
+October 2024 | Recording: <a href="https://www.youtube.com/watch?v=Lq2Et15tc4s" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Practical Scenario - Copilot
 
-September 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-09-17%20-%20Practical%20Scenario%20-%20Copilot.pptx) <a href="media/community-calls/2024/Practitioners%202024-09-17%20-%20Practical%20Scenario%20-%20Copilot.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=9DQlq-J2BGM" target="_blank">YouTube</a>
+September 2024 | Recording: <a href="https://www.youtube.com/watch?v=9DQlq-J2BGM" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Revisiting the Management of Content Competency
 
-June 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-06-18%20-%20Revisiting%20the%20Management%20of%20Content%20Competency.pptx) <a href="media/community-calls/2024/Practitioners%202024-06-18%20-%20Revisiting%20the%20Management%20of%20Content%20Competency.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=jrOJBWOThNY" target="_blank">YouTube</a>
+June 2024 | Recording: <a href="https://www.youtube.com/watch?v=jrOJBWOThNY" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Creating a Mature Employee Experience
 
-May 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-05-21%20-%20Creating%20a%20Mature%20Employee%20Experience.pptx) <a href="media/community-calls/2024/Practitioners%202024-05-21%20-%20Creating%20a%20Mature%20Employee%20Experience.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=nRKoTdKCdO8" target="_blank">YouTube</a>
+May 2024 | Recording: <a href="https://www.youtube.com/watch?v=nRKoTdKCdO8" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Practical Application - Power Platform COE
 
-April 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-04-16%20-%20Practical%20Application%20-%20Power%20Platform%20COE.pptx) <a href="media/community-calls/2024/Practitioners%202024-04-16%20-%20Practical%20Application%20-%20Power%20Platform%20COE.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=iIY03u5AL78" target="_blank">YouTube</a>
+April 2024 | Recording: <a href="https://www.youtube.com/watch?v=iIY03u5AL78" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Revisit Staff & Training and People & Communities
 
-March 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-03-19%20-%20Revisit%20Staff%20%26%20Training%20and%20People%20%26%20Communities.pptx) <a href="media/community-calls/2024/Practitioners%202024-03-19%20-%20Revisit%20Staff%20%26%20Training%20and%20People%20%26%20Communities.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=iIY03u5AL78" target="_blank">YouTube</a>
+March 2024 | Recording: <a href="https://www.youtube.com/watch?v=iIY03u5AL78" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Practical Scenarios-Service Management
 
-February 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-02-20%20-%20Practical%20Scenarios-Service%20Management.pptx) <a href="media/community-calls/2024/Practitioners%202024-02-20%20-%20Practical%20Scenarios-Service%20Management.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=UsUEPpnsx28" target="_blank">YouTube</a>
+February 2024 | Recording: <a href="https://www.youtube.com/watch?v=UsUEPpnsx28" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Cognitive Business & Copilot
 
-January 2024 | Slides: [PPT](media/community-calls/2024/Practitioners%202024-01-16%20-%20Cognitive%20Business%20%26%20Copilot.pptx) <a href="media/community-calls/2024/Practitioners%202024-01-16%20-%20Cognitive%20Business%20%26%20Copilot.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=mzxKVtOwMpI" target="_blank">YouTube</a>
+January 2024 | Recording: <a href="https://www.youtube.com/watch?v=mzxKVtOwMpI" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Case Studies
 
-November 2023 | Slides: [PPT](media/community-calls/2023/Practitioners%202023-11-21%20-%20Case%20Studies.pptx) <a href="media/community-calls/2023/Practitioners%202023-11-21%20-%20Case%20Studies.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=te764DQOtZM" target="_blank">YouTube</a>
+November 2023 | Recording: <a href="https://www.youtube.com/watch?v=te764DQOtZM" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Practical scenario - SharePoint Syntex
 
-October 2023 | Slides: [PPT](media/community-calls/2023/Practitioners%202023-10-17%20-%20Practical%20scenario%20-%20SharePoint%20Syntex.pptx) <a href="media/community-calls/2023/Practitioners%202023-10-17%20-%20Practical%20scenario%20-%20SharePoint%20Syntex.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=" target="_blank">YouTube</a>
+October 2023 | Recording: <a href="https://www.youtube.com/watch?v=" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Accessibility
 
-September 2023 | Slides: [PPT](media/community-calls/2023/Practitioners%202023-09-19%20-%20Accessibility.pptx) <a href="media/community-calls/2023/Practitioners%202023-09-19%20-%20Accessibility.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=msUi_oEz12w" target="_blank">YouTube</a>
+September 2023 | Recording: <a href="https://www.youtube.com/watch?v=msUi_oEz12w" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Maturity in the Age of Copilot
 
-June 2023 | Slides: [PPT](media/community-calls/2023/Practitioners%202023-06-20%20-%20Maturity%20in%20the%20Age%20of%20Copilot.pptx) <a href="media/community-calls/2023/Practitioners%202023-06-20%20-%20Maturity%20in%20the%20Age%20of%20Copilot.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=TgpWJ4YaEp4" target="_blank">YouTube</a>
+June 2023 | Recording: <a href="https://www.youtube.com/watch?v=TgpWJ4YaEp4" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Maturity Model and Employee Experience
 
-May 2023 | Slides: [PPT](media/community-calls/2023/Practitioners%202023-05-16%20-%20Maturity%20Model%20and%20Employee%20Experience.pptx) <a href="media/community-calls/2023/Practitioners%202023-05-16%20-%20Maturity%20Model%20and%20Employee%20Experience.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=IqjPW4aJQIg" target="_blank">YouTube</a>
+May 2023 | Recording: <a href="https://www.youtube.com/watch?v=IqjPW4aJQIg" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Applying Maturity Model thinking to your use of Microsoft Loop
 
-April 2023 | Slides: [PPT](media/community-calls/2023/Practitioners%202023-04-25%20-%20Applying%20Maturity%20Model%20thinking%20to%20your%20use%20of%20Microsoft%20Loop.pptx) <a href="media/community-calls/2023/Practitioners%202023-04-25%20-%20Applying%20Maturity%20Model%20thinking%20to%20your%20use%20of%20Microsoft%20Loop.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=k8clqL-_zpI" target="_blank">YouTube</a>
+April 2023 | Recording: <a href="https://www.youtube.com/watch?v=k8clqL-_zpI" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Cognitive business - AI & the MM4M365
 
-March 2023 | Slides: [PPT](media/community-calls/2023/Practitioners%202023-03-21%20-%20Cognitive%20business%20-%20AI%20%26%20the%20MM4M365.pptx) <a href="media/community-calls/2023/Practitioners%202023-03-21%20-%20Cognitive%20business%20-%20AI%20%26%20the%20MM4M365.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=81hOCBkdSog" target="_blank">YouTube</a>
+March 2023 | Recording: <a href="https://www.youtube.com/watch?v=81hOCBkdSog" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Employee Experience vs Staff & Training
 
-February 2023 | Slides: [PPT](media/community-calls/2023/Practitioners%202023-02-21%20-%20Employee%20Experience%20vs%20Staff%20%26%20Training.pptx) <a href="media/community-calls/2023/Practitioners%202023-02-21%20-%20Employee%20Experience%20vs%20Staff%20%26%20Training.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=pdY88RproYg" target="_blank">YouTube</a>
+February 2023 | Recording: <a href="https://www.youtube.com/watch?v=pdY88RproYg" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Roadmapping your 2023 MM4M365 Journey
 
-January 2023 | Slides: [PPT](media/community-calls/2023/Practitioners%202023-01-17%20-%20Roadmapping%20your%202023%20MM4M365%20Journey.pptx) <a href="media/community-calls/2023/Practitioners%202023-01-17%20-%20Roadmapping%20your%202023%20MM4M365%20Journey.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=7S9YB0_vFAo" target="_blank">YouTube</a>
+January 2023 | Recording: <a href="https://www.youtube.com/watch?v=7S9YB0_vFAo" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Infrastructure
 
-November 2022 | Slides: [PPT](media/community-calls/2022/Practitioners%202022-11-15%20-%20Infrastructure.pptx) <a href="media/community-calls/2022/Practitioners%202022-11-15%20-%20Infrastructure.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=0k87onVPPtk" target="_blank">YouTube</a>
+November 2022 | Recording: <a href="https://www.youtube.com/watch?v=0k87onVPPtk" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Maturity in an Ever-Changing World
 
-October 2022 | Slides: [PPT](media/community-calls/2022/Practitioners%202022-10-18%20-%20Maturity%20in%20an%20Ever-Changing%20World.pptx) <a href="media/community-calls/2022/Practitioners%202022-10-18%20-%20Maturity%20in%20an%20Ever-Changing%20World.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=nsfgxd2TP9Q" target="_blank">YouTube</a>
+October 2022 | Recording: <a href="https://www.youtube.com/watch?v=nsfgxd2TP9Q" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Staff & Training
 
-September 2022 | Slides: [PPT](media/community-calls/2022/Practitioners%202022-09-20%20-%20Staff%20%26%20Training%20.pptx) <a href="media/community-calls/2022/Practitioners%202022-09-20%20-%20Staff%20%26%20Training%20.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=dV7pSAdAi_g" target="_blank">YouTube</a>
+September 2022 | Recording: <a href="https://www.youtube.com/watch?v=dV7pSAdAi_g" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Customization & Development
 
-May 2022 | Slides: [PPT](media/community-calls/2022/Practitioners%202022-05-17%20-%20Customization%20%26%20Development%20.pptx) <a href="media/community-calls/2022/Practitioners%202022-05-17%20-%20Customization%20%26%20Development%20.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=a55dX7O76LE" target="_blank">YouTube</a>
+May 2022 | Recording: <a href="https://www.youtube.com/watch?v=a55dX7O76LE" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### One Year On...
 
-April 2022 | Slides: [PPT](media/community-calls/2022/Practitioners%202022-04-19%20-%20One%20Year%20On....pptx) <a href="media/community-calls/2022/Practitioners%202022-04-19%20-%20One%20Year%20On....pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=72cHzMdPdus" target="_blank">YouTube</a>
+April 2022 | Recording: <a href="https://www.youtube.com/watch?v=72cHzMdPdus" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### People and Communities
 
-March 2022 | Slides: [PPT](media/community-calls/2022/Practitioners%202022-03-15%20-%20People%20and%20Communities.pptx) <a href="media/community-calls/2022/Practitioners%202022-03-15%20-%20People%20and%20Communities.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=0LaGDQyMDC4" target="_blank">YouTube</a>
+March 2022 | Recording: <a href="https://www.youtube.com/watch?v=0LaGDQyMDC4" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Governance Risk and Compliance Competency
 
-February 2022 | Slides: [PPT](media/community-calls/2022/Practitioners%202022-02-15%20-%20Governance%20Risk%20and%20Compliance%20Competency.pptx) <a href="media/community-calls/2022/Practitioners%202022-02-15%20-%20Governance%20Risk%20and%20Compliance%20Competency.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=I6cfNuk1a3s" target="_blank">YouTube</a>
+February 2022 | Recording: <a href="https://www.youtube.com/watch?v=I6cfNuk1a3s" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Business Process Competency
 
-January 2022 | Slides: [PPT](media/community-calls/2022/Practitioners%202022-01-18%20-%20Business%20Process%20Competency.pptx) <a href="media/community-calls/2022/Practitioners%202022-01-18%20-%20Business%20Process%20Competency.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=qlSMbQkJx-0" target="_blank">YouTube</a>
+January 2022 | Recording: <a href="https://www.youtube.com/watch?v=qlSMbQkJx-0" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Search Competency
 
-November 2021 | Slides: [PPT](media/community-calls/2021/Practitioners%202021-11-16%20-%20Search%20Competency.pptx) <a href="media/community-calls/2021/Practitioners%202021-11-16%20-%20Search%20Competency.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=eO6tlGVJDfg" target="_blank">YouTube</a>
+November 2021 | Recording: <a href="https://www.youtube.com/watch?v=eO6tlGVJDfg" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Collaboration Competency
 
-October 2021 | Slides: [PPT](media/community-calls/2021/Practitioners%202021-10-19%20-%20Collaboration%20Competency.pptx) <a href="media/community-calls/2021/Practitioners%202021-10-19%20-%20Collaboration%20Competency.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=1XeqC31qK0Y" target="_blank">YouTube</a>
+October 2021 | Recording: <a href="https://www.youtube.com/watch?v=1XeqC31qK0Y" target="_blank">YouTube</a>
 
 **Speaker(s):** [To be added]
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Communication Competency
 
-September 2021 | Slides: [PPT](media/community-calls/2021/Practitioners%202021-09-21%20-%20Communication%20Competency.pptx) <a href="media/community-calls/2021/Practitioners%202021-09-21%20-%20Communication%20Competency.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=ljHq1XXlc3s" target="_blank">YouTube</a>
+September 2021 | Recording: <a href="https://www.youtube.com/watch?v=ljHq1XXlc3s" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/anokheetara/" target="_blank">Tara Saylor</a><br><a href="https://www.linkedin.com/in/marcanderson](Marc Anderson)<br><a href="https://www.linkedin.com/in/simondoy](Simon Doy)<br><a href="https://www.linkedin.com/in/simonjhudson](Simon Hudson)<br><a href="https://www.linkedin.com/in/sharonweaver](Sharon Weaver)
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
-### Advanced Content Management â€“ Retention & Compliance
+### Advanced Content Management – Retention & Compliance
 
-August 2021 | Slides: [PPT](media/community-calls/2021/Practitioners%202024Aug2021%20Advanced%20Content.pptx) <a href="media/community-calls/2021/Practitioners%202024Aug2021%20Advanced%20Content.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=fWGQsqkULhY" target="_blank">YouTube</a>
+August 2021 | Recording: <a href="https://www.youtube.com/watch?v=fWGQsqkULhY" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/joanneklein/" target="_blank">Joanne Klein</a><br><a href="https://www.linkedin.com/in/marcanderson](Marc Anderson)<br><a href="https://www.linkedin.com/in/simondoy](Simon Doy)<br><a href="https://www.linkedin.com/in/simonjhudson](Simon Hudson)
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### How to run a MM4M365 Workshop
 
-July 2021 | Slides: [PPT](media/community-calls/2021/Practitioners%2020July2021%20Run%20a%20Workshop.pptx) <a href="media/community-calls/2021/Practitioners%2020July2021%20Run%20a%20Workshop.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=gg4_5xkkMVM" target="_blank">YouTube</a>
+July 2021 | Recording: <a href="https://www.youtube.com/watch?v=gg4_5xkkMVM" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/eemancini" target="_blank">Emily Mancini</a><br><a href="https://www.linkedin.com/in/marcanderson](Marc Anderson)<br><a href="https://www.linkedin.com/in/simondoy](Simon Doy)<br><a href="https://www.linkedin.com/in/simonjhudson](Simon Hudson)
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Management of Content
 
-June 2021 | Slides: [PPT](media/community-calls/2021/Practitioners%2015June2021%20Content.pptx) <a href="media/community-calls/2021/Practitioners%2015June2021%20Content.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=qVIhlTMfU4U" target="_blank">YouTube</a>
+June 2021 | Recording: <a href="https://www.youtube.com/watch?v=qVIhlTMfU4U" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/eemancini" target="_blank">Emily Mancini</a><br><a href="https://www.linkedin.com/in/marcanderson](Marc Anderson)<br><a href="https://www.linkedin.com/in/simondoy](Simon Doy)<br><a href="https://www.linkedin.com/in/simonjhudson](Simon Hudson)
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Power Platform through the lens of the Maturity Model
 
-May 2021 | Slides: [PPT](media/community-calls/2021/Practitioners%2018May2021%20Power%20Platform.pptx) <a href="media/community-calls/2021/Practitioners%2018May2021%20Power%20Platform.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=8iOkv6ETcOw" target="_blank">YouTube</a>
+May 2021 | Recording: <a href="https://www.youtube.com/watch?v=8iOkv6ETcOw" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/april-dunnam/" target="_blank">April Dunnam</a><br><a href="https://www.linkedin.com/in/hugobernier/](Hugo Bernier)<br><a href="https://www.linkedin.com/in/eemancini](Emily Mancini)<br><a href="https://www.linkedin.com/in/marcanderson](Marc Anderson)<br><a href="https://www.linkedin.com/in/simondoy](Simon Doy)<br><a href="https://www.linkedin.com/in/simonjhudson](Simon Hudson)
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### Security
 
-April 2021 | Slides: [PPT](media/community-calls/2021/Practitioners%2020Apr2021%20Introducing.pptx) <a href="media/community-calls/2021/Practitioners%2020Apr2021%20Introducing.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=swN532SLltY" target="_blank">YouTube</a>
+April 2021 | Recording: <a href="https://www.youtube.com/watch?v=swN532SLltY" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/helloitsliam/" target="_blank">Liam Cleary</a><br><a href="https://www.linkedin.com/in/eemancini](Emily Mancini)<br><a href="https://www.linkedin.com/in/marcanderson](Marc Anderson)<br><a href="https://www.linkedin.com/in/simondoy](Simon Doy)<br><a href="https://www.linkedin.com/in/simonjhudson](Simon Hudson)
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 
 ### General Discussion about the Maturity Model
 
-March 2021 | Slides: [PPT](media/community-calls/2021/Practitioners%2016Mar2021%20Overview%20and%20artefacts%20.pptx) <a href="media/community-calls/2021/Practitioners%2016Mar2021%20Overview%20and%20artefacts%20.pdf](PDF) | Recording: <a href="https://www.youtube.com/watch?v=example" target="_blank">YouTube</a>
+March 2021 | Recording: <a href="https://www.youtube.com/watch?v=example" target="_blank">YouTube</a>
 
 **Speaker(s):** <a href="https://www.linkedin.com/in/eemancini" target="_blank">Emily Mancini</a><br><a href="https://www.linkedin.com/in/marcanderson](Marc Anderson)<br><a href="https://www.linkedin.com/in/simondoy](Simon Doy)<br><a href="https://www.linkedin.com/in/simonjhudson](Simon Hudson)
 
 **Summary:** [To be added]
 
-[↑ Back to top](#table-of-contents)
+[→ Back to top](#table-of-contents)
 
 ---
 -
